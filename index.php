@@ -35,7 +35,7 @@
       <!-- end page content -->
     </div>
     <footer>
-      Copyright 2011 Rebecca Zeckoski 
+      Copyright <?php echo date('Y'); ?> Rebecca Zeckoski
     </footer>
   </div> <!--! end of #container -->
 
